@@ -1,3 +1,4 @@
+DROP DATABASE if exists ShopDB;
 CREATE DATABASE ShopDB;
 USE ShopDB;
 
